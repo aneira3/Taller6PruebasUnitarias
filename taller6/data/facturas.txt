@@ -1,0 +1,43 @@
+
+
+Factura: 
+Nombre del cliente: andre Dirección del cliente: s ID del pedido: 4877145
+corral 0 Elementos agregados Eliminaciones: tomate 
+Precio Neto del pedido: 13000$
+IVA del 19% aplicado: 2470$
+Precio total facturado: 15470$
+
+Factura: 
+Nombre del cliente: a Dirección del cliente: 2 ID del pedido: 7386165
+corral Adiciones: lechuga  Eliminaciones: lechuga 
+Precio Neto del pedido: 14000$
+IVA del 19% aplicado: 2660$
+Precio total facturado: 16660$
+
+Factura: 
+Nombre del cliente: a Dirección del cliente: b ID del pedido: 1913611
+corral
+Precio Neto del pedido: 14000$
+IVA del 19% aplicado: 2660$
+Precio total facturado: 16660$
+
+Factura: 
+Nombre del cliente: b Dirección del cliente: c ID del pedido: 9311913
+corral Adiciones: queso mozzarella  Eliminaciones: queso mozzarella 
+Precio Neto del pedido: 14000$
+IVA del 19% aplicado: 2660$
+Precio total facturado: 16660$
+
+Factura: 
+Nombre del cliente: e Dirección del cliente: r ID del pedido: 3256124
+combo corral con adición de corral pollo 
+Precio Neto del pedido: 37050$
+IVA del 19% aplicado: 7039$
+Precio total facturado: 44089$
+
+Factura: 
+Nombre del cliente: andrès Dirección del cliente: 12 ID del pedido: 1725289
+gaseosa Adiciones: tocineta picada  Eliminaciones: piña 
+Precio Neto del pedido: 8500$
+IVA del 19% aplicado: 1615$
+Precio total facturado: 10115$
